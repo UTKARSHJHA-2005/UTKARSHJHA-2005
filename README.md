@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm UTKARSH JHA</h1>
 <h3 align="center">Code Never Lies Sometimes Comments Do</h3>
 # 💫 About Me:
-<p align="right"> <img src="https://img.freepik.com/premium-vector/utch-man-viewed-from-side-behind-laptop-02-copy-5-01_961307-1185.jpg?w=740" alt="utkarshjha-2005" /> </p>
+<p align="right"> <img src="https://img.freepik.com/premium-vector/utch-man-viewed-from-side-behind-laptop-02-copy-5-01_961307-1185.jpg?w=740" width="400" alt="utkarshjha-2005" /> </p>
 🌱 I’m currently learning SQL,JAVA.<br><br>💬 Ask me about HTML,CSS,JAVASCRIPT,REACT.<br><br>📫 How to reach me jha.utkarsh@gmail.com
 
 <h3 align="left">Connect with me:</h3>
