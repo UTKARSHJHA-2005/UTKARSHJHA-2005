@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshjha-2005&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshjha-2005" /> </p>
 
-- 🌱 I’m currently learning **SQL,JAVA.**
+- 🌱 I’m currently learning **NODEJS.**
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT,REACT.**
+- 💬 Ask me about **HTML,CSS,JAVASCRIPT,REACTJS,JAVA.**
 
 - 📫 How to reach me **jha.utkarsh@gmail.com**
 
