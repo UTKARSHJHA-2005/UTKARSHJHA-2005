@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **NODEJS.**
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT,REACTJS,JAVA.**
+- 💬 Ask me about **HTML,CSS,JAVASCRIPT,REACTJS,JAVA,FIREBASE.**
 
 - 📫 How to reach me **jha.utkarsh@gmail.com**
 
