@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm UTKARSH JHA</h1>
 <h3 align="center">Code Never Lies Sometimes Comments Do</h3>
 <img src="https://img.freepik.com/premium-vector/utch-man-viewed-from-side-behind-laptop-02-copy-5-01_961307-1185.jpg?w=740" 
-       alt="Man working on laptop" 
-       className="w-96 animate-bounce hover:scale-105 transition-transform duration-500">
+       alt="Man working on laptop" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshjha-2005&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshjha-2005" /> </p>
 
 - 🌱 I’m currently learning **WEB3.**
