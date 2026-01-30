@@ -4,7 +4,7 @@
      width="400" align="right" alt="Man working on laptop">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshjha-2005&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshjha-2005" /> </p>
 
-- 🌱 I’m currently learning **WEB3.**
+- 🌱 I’m currently exploring **WEB3.**
 
 - 💬 Ask me about **Web Dev.**
 
