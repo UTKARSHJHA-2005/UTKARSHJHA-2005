@@ -4,11 +4,11 @@
      width="400" align="right" alt="Man working on laptop">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshjha-2005&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshjha-2005" /> </p>
 
-- 🌱 I’m currently exploring **WEB3.**
+ 🌱 I’m currently exploring **WEB3.**
 
-- 💬 Ask me about **Web Dev.**
+ 💬 Ask me about **Web Dev.**
 
-- 📫 How to reach me **jha.utkarsh2005@gmail.com**
+ 📫 How to reach me **jha.utkarsh2005@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
