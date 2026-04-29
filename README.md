@@ -66,8 +66,8 @@ B.Tech CSE student with strong foundations in DSA, OOP, and backend systems. Exp
     <td colspan="8"><b>☁️ DevOps & Cloud</b></td>
   </tr>
   <tr>
-        <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36"/></td>
-        <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/github-colored.svg" width="36"/></td>
+    <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36"/></td>
+    <td><img src="https://www.svgrepo.com/show/373625/gitlab.svg" width="36"/></td>
     <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36"/></td>
     <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="36"/></td>
     <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36"/></td>
@@ -86,11 +86,8 @@ B.Tech CSE student with strong foundations in DSA, OOP, and backend systems. Exp
     <td colspan="8"><b>🛠️ Tools & Others</b></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36"/></td>
     <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36"/></td>
     <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36"/></td>
-    <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36"/></td>
-    <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36"/></td>
   </tr>
 </table>
 
