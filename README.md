@@ -59,7 +59,7 @@ B.Tech CSE student with strong foundations in DSA, OOP, and backend systems. Exp
     <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36"/></td>
     <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg" width="36"/></td>
     <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36"/></td>
-    <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pinata-colored.svg" width="36"/></td>
+    <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ipfs-colored-dark.svg" width="36"/></td>
   </tr>
   <tr>
     <td colspan="8"><b>☁️ DevOps & Cloud</b></td>
