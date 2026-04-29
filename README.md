@@ -10,7 +10,7 @@ B.Tech CSE student with strong foundations in DSA, OOP, and backend systems. Exp
 * 🧠  I'm currently learning new interesting frameworks and technologies.
 * 👥  I'm looking to collaborate on interesting projects.
 
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+<p align="left">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36"/>
   </a>
