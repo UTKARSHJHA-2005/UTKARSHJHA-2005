@@ -32,7 +32,6 @@ B.Tech CSE student with strong foundations in DSA, OOP, and backend systems. Exp
     <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36"/></td>
     <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36"/></td>
     <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36"/></td>
-    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJSJmlNYGBG0wZYVdNpEFAPzVSnGM3LdOIBw&s" width="36"/></td>
   </tr>
   <tr>
     <td colspan="8"><b>App Development</b></td>
@@ -92,6 +91,9 @@ B.Tech CSE student with strong foundations in DSA, OOP, and backend systems. Exp
     <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrwQfjxYHgFGWPe6kpIwq3xWtlcSrBgjqfbA&s" width="36"/></td>
     <td><img src="https://static.canva.com/domain-assets/canva/static/images/android-192x192-2.png" width="36"/></td>
     <td><img src="https://cdn.freebiesupply.com/logos/large/2x/dribbble-icon-1-logo-png-transparent.png" width="36"/></td>
+    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJSJmlNYGBG0wZYVdNpEFAPzVSnGM3LdOIBw&s" width="36"/></td>
+    <td><img src="https://pypi-camo.freetls.fastly.net/c424e7942e23bfdefc744b75d6f14c36dc936e27/68747470733a2f2f696d616765732e636c65726b2e636f6d2f7374617469632f6c6f676f2d6c696768742d6d6f64652d343030783430302e706e67" width="36"/></td>
+    <td><img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" width="36"/></td>
   </tr>
 </table>
 
