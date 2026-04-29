@@ -71,7 +71,7 @@ B.Tech CSE student with strong foundations in DSA, OOP, and backend systems. Exp
     <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36"/></td>
     <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="36"/></td>
     <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36"/></td>
-    <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36"/></td>
+    <td><img src="https://i0.wp.com/nginxstore.com/wp-content/uploads/2025/03/jenkins.png?fit=1483%2C2048&ssl=1" width="36"/></td>
   </tr>
   <tr>
     <td colspan="8"><b>💻 Programming Languages</b></td>
