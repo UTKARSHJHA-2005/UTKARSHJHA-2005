@@ -89,6 +89,9 @@ B.Tech CSE student with strong foundations in DSA, OOP, and backend systems. Exp
   <tr>
     <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36"/></td>
     <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36"/></td>
+    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrwQfjxYHgFGWPe6kpIwq3xWtlcSrBgjqfbA&s" width="36"/></td>
+    <td><img src="https://static.canva.com/domain-assets/canva/static/images/android-192x192-2.png" width="36"/></td>
+    <td><img src="https://cdn.freebiesupply.com/logos/large/2x/dribbble-icon-1-logo-png-transparent.png" width="36"/></td>
   </tr>
 </table>
 
