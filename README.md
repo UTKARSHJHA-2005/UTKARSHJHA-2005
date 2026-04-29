@@ -30,6 +30,9 @@ B.Tech CSE student with strong foundations in DSA, OOP, and backend systems. Exp
     <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36"/></td>
     <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36"/></td>
     <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36"/></td>
+     <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36"/></td>
+    <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36"/></td>
+
   </tr>
   <tr>
     <td colspan="8"><b>App Development</b></td>
