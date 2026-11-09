@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Myself Utkarsh Jha
 ====================================================================================================================================
-Software Developer
+Digital Specialist Engineer Trainee at Infosys
 ------------------
 
 B.Tech CSE student with strong foundations in DSA, OOP, and backend systems. Experienced in building REST APIs, microservices, and distributed components using Node.js, Java, and Python frameworks. Proficient in Git workflows, unit/regression testing, and CI/CD.
